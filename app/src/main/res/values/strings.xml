@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GlucoDiary</string>
+    <string name="app_subtitle">दैनिक ब्लड शुगर एवं आहार डायरी</string>
+    <string name="title_daily_diary">Daily Diary</string>
+    <string name="title_table_view">Spreadsheet View</string>
+    <string name="title_history">Log History</string>
+    <string name="title_analytics">Trends &amp; Insights</string>
+    <string name="title_profile">User Profile</string>
+    <string name="fasting_breakfast">Breakfast / Fasting (नाश्ता)</string>
+    <string name="lunch_section">Lunch (दोपहर का खाना)</string>
+    <string name="dinner_section">Dinner (रात का खाना)</string>
+    <string name="bedtime_section">Night / Bedtime (सोते समय)</string>
+</resources>

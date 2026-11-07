@@ -1,0 +1,6 @@
+{
+  "name": "GlucoDiary",
+  "description": "Daily Blood Sugar & Diet Diary (दैनिक ब्लड शुगर एवं आहार डायरी) with mobile OTP login, insulin tracking, meal logs, spreadsheet table view, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
